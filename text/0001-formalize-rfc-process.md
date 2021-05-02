@@ -2,7 +2,7 @@
 
 - Feature Name: `formalize-rfc-process`
 - Start Date: 2021-05-02
-- RFC PR: [project-mae/rfcs#0000](https://github.com/rust-lang/rfcs/pull/0000)
+- RFC PR: [project-mae/rfcs#0001](https://github.com/rust-lang/rfcs/pull/0001)
 
 <!--
 
