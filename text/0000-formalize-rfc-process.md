@@ -25,7 +25,7 @@ templates.
 This RFC creates a formal process to document and discuss major changes to the
 structure of MAE, via the adoption of the system described in
 [`README.md`](../README.md) and [`0000-template.md`](../0000-template.md) in this
-repository, and influenced by[Rust language RFC
+repository, and influenced by the [Rust language RFC
 system](https://github.com/rust-lang/rfcs/blob/master/0000-template.md).
 
 ## Motivation
