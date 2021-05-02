@@ -26,7 +26,7 @@ This RFC creates a formal process to document and discuss major changes to the
 structure of MAE, via the adoption of the system described in
 [`README.md`](../README.md) and [`0000-template.md`](../0000-template.md) in this
 repository, and influenced by the [Rust language RFC
-system](https://github.com/rust-lang/rfcs/blob/master/0000-template.md).
+system](https://github.com/rust-lang/rfcs/).
 
 ## Motivation
 
@@ -162,7 +162,7 @@ broader ones are more formal.
 [precedent]: #precedent
 
 This system is directly inspired by the Rust Programming Language's system of
-[RFCs](https://github.com/rust-lang/rfcs/blob/master/0000-template.md). It has been
+[RFCs](https://github.com/rust-lang/rfcs/). It has been
 adapted into our RFC process and structure as evident in [`README.md`](../README.md)
 and [the RFC template](../0000-template.md).
 
