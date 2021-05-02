@@ -5,7 +5,22 @@
 - Feature Name: - Feature Name: (fill me in with a unique ident,
   `my_awesome_feature`)
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
-- RFC PR: [rust-lang/rfcs#0000](https://github.com/rust-lang/rfcs/pull/0000)
+- RFC PR: [project-mae/rfcs#0000](https://github.com/project-mae/rfcs/pull/0000)
+
+<!--
+
+DO NOT REMOVE THIS BLOCK. If any amendments are made by future RFCs or decision,
+please open a Pull Request to document links to these amendments here. Also,
+uncomment the following section of the block as the template for documenting
+templates.
+
+## Amendments
+
+- Amended by: [project-mae/rfcs#0000](https://github.com/pro/rfcs/pull/0000) (pr
+  link, or other medium if applicable)
+  - Description: One sentence description of amendment
+
+-->
 
 ## Summary
 
@@ -19,35 +34,19 @@ One paragraph explanation of the feature.
 
 Why are we doing this? What use cases does it support? What is the expected outcome?
 
-<!--
-Include this section if and only if your RFC is technical. Otherwise, feel free to
-remove.
+# Explanation
 
-# Guide-level explanation
-[guide-level-explanation]: #guide-level-explanation
+[basic-explanation]: #basic-explanation
 
-Explain the proposal as if it was already included in MAE and you were teaching it to
-another user. That generally means:
+Explain the proposal in moderate detail, providing information on the proposal made
+in the RFC.
 
-- Introducing new named concepts.
-- Explaining the feature largely in terms of examples.
-- Explaining how users should *think* about the feature, and how it should impact the
-  way they use MAE. It should explain the impact as concretely as possible.
+## Reference
 
-## Reference-level explanation
+[reference]: #reference
 
-[reference-level-explanation]: #reference-level-explanation
-
-This is the technical portion of the RFC. Explain the design in sufficient detail
-that:
-
-- Its interaction with other features is clear.
-- It is reasonably clear how the feature would be implemented.
-- Corner cases are dissected by example.
-
-The section should return to the examples given in the previous section, and explain
-more fully how the detailed proposal makes those examples work.
--->
+Elaborate on how you think this idea should be implemented, including technical
+details if applicable, and other relevant/related information.
 
 ## Drawbacks
 
@@ -62,7 +61,7 @@ Why should we *not* do this?
 - Why is this design the best in the space of possible designs?
 - What other designs have been considered and what is the rationale for not choosing
   them?
-- What is the impact of not doing this?
+- What is the impact of doing this?
 
 ## Precedent
 
